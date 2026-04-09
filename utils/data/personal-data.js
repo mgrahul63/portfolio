@@ -1,7 +1,13 @@
 export const personalData = {
   name: "MD RAFUL MIA",
   profile: "/md.jpg",
-  designation: "Software Developer",
+  designation: [
+    "Software Developer",
+    "Web Developer",
+    "React Developer",
+    "MERN Stack Developer",
+    "Full Stack Developer",
+  ],
   description:
     "My name is MD Raful Mia. I am a passionate and hardworking programmer who enjoys coding and learning new things every day. I am a quick learner and improve my skills through self-learning. I am interested in exploring new technologies and solving problems. I enjoy working on web development and building useful and simple web applications. My main skill is JavaScript, and I also work with React and Next.js to build modern applications. I am familiar with Node.js, MongoDB, PHP, Firebase, and REST API, and I enjoy working with both frontend and backend technologies. I am open to job opportunities that match my skills and interests and help me grow as a developer.",
   email: "mgrahul639@gmail.com",
@@ -15,5 +21,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/#",
   devUsername: "#",
   resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+    "https://drive.google.com/file/d/1QBf5oDigpdZbrlkFAe1Uo2MAtpXkVuhr/view?usp=sharing",
 };

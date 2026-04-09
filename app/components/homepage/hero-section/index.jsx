@@ -8,8 +8,12 @@ import { FaFacebook, FaTwitterSquare } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
 import { SiLeetcode } from "react-icons/si";
+import Designation from "../../designation";
 
 function HeroSection() {
+  const designation = personalData.designation;
+  //here designation is an array of strings, so we need to use an time interval to change the designation every 3 seconds
+
   return (
     <section className="relative flex flex-col items-center justify-between py-4 lg:py-12">
       <Image
@@ -27,7 +31,9 @@ function HeroSection() {
             Hello, <br />
             This is <span className=" text-pink-500">{personalData.name}</span>
             {` , I'm a Professional `}
-            <span className=" text-[#16f2b3]">{personalData.designation}</span>.
+            <span className=" text-[#16f2b3]">
+              <Designation />
+            </span>
           </h1>
 
           {/* social media links   */}
