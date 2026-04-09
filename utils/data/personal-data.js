@@ -19,7 +19,7 @@ export const personalData = {
   twitter: "https://twitter.com/#",
   stackOverflow: "https://stackoverflow.com/users/#",
   leetcode: "https://leetcode.com/#",
-  devUsername: "#",
+  devUsername: "mg639",
   resume:
     "https://drive.google.com/file/d/1QBf5oDigpdZbrlkFAe1Uo2MAtpXkVuhr/view?usp=sharing",
 };
