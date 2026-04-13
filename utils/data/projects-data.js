@@ -5,7 +5,7 @@ export const projectsData = [
     image:
       "https://github.com/mgrahul63/AI-real-estate-image-generator-frontend/blob/main/public/assets/image.png?raw=true",
     description:
-      "AI-powered real estate image generator that creates property visuals from text prompts with modern UI and real-time preview.",
+      "AI-powered real estate image generator that creates property by prompts with modern UI.",
     tools: ["React.js", "Node.js", "Express.js", "OpenAI", "Groq"],
     githubLink:
       "https://github.com/mgrahul63/AI-real-estate-image-generator-frontend",
@@ -17,7 +17,7 @@ export const projectsData = [
     image:
       "https://github.com/mgrahul63/Real-time-Chat-Frontend/blob/main/public/image.png?raw=true",
     description:
-      "Real-time messaging application with authentication, image sharing, emoji support, and live user status using Socket.io.",
+      "Real-time messaging application with image sharing, emoji support, and live user status.",
     tools: [
       "React.js",
       "Node.js",
