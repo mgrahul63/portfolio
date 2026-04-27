@@ -33,6 +33,17 @@ export const projectsData = [
   },
   {
     id: 3,
+    name: "Spoken Learning Platform",
+    image:
+      "https://github.com/mgrahul63/spoken-app/blob/main/image.png?raw=true",
+    description:
+      "Spoken learning platform with interactive lessons, quizzes, listneing, speaking and progress tracking.",
+    tools: ["React", "Web API", "Node.js", "Express.js", "MongoDB"],
+    githubLink: "https://github.com/mgrahul63/spoken-app",
+    liveLink: "https://spoken-app-low1.vercel.app/",
+  },
+  {
+    id: 4,
     name: "Edulearnhub",
     image:
       "https://github.com/mgrahul63/edulearnhub-frontend/blob/main/image.png?raw=true",
@@ -43,7 +54,7 @@ export const projectsData = [
     liveLink: "https://edulearnhub.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     name: "Transcript Management System",
     image:
       "https://github.com/mgrahul63/Trasncript-Management-System/blob/main/project-pictures/student-dashboard.png?raw=true",
@@ -54,7 +65,7 @@ export const projectsData = [
     liveLink: "#",
   },
   {
-    id: 5,
+    id: 6,
     name: "Food Ordering App",
     image:
       "https://github.com/mgrahul63/food-ordering/blob/main/images/project1.png?raw=true",
@@ -66,7 +77,7 @@ export const projectsData = [
   },
 
   {
-    id: 6,
+    id: 7,
     name: "Employee Leave Management System",
     image:
       "https://github.com/mgrahul63/employ-management-system/blob/main/project-pictures/user-dashboard.png?raw=true",
@@ -77,7 +88,7 @@ export const projectsData = [
     liveLink: "#",
   },
   {
-    id: 7,
+    id: 8,
     name: "Weather Monitoring System",
     image:
       "https://github.com/mgrahul63/weather-monitoring/blob/main/public/image.png?raw=true",
